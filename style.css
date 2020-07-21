@@ -95,7 +95,13 @@ div.body::before{
 
 @media (min-height: 218px){
   body{
-    height: 200vh;
+    height: 145vh;
+  }
+}
+
+@media (min-height: 374px){
+  body{
+    height: 125vh;
   }
 }
 
